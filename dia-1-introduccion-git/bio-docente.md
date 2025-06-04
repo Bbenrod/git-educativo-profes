@@ -18,4 +18,4 @@
 
 ## Algo más sobre ti
 
-[Comparte información adicional que consideres relevante, como pasatiempos, motivaciones o metas]
+Soy profesor del curso de Git y GitHub para docentes, ayudando a otros profesores a dominar estas herramientas para gestionar y colaborar en sus proyectos educativos de forma eficiente.
