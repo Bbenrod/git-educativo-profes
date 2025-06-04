@@ -6,11 +6,15 @@
 
 ## Intereses académicos
 
-[Describe tus áreas de interés académico o profesional]
+- Creacion de cursos y contenido digital
+- Diseño de estrategias de testing
+- Automatizacion de negocios con software
 
 ## Herramientas digitales que utilizas
 
-[Lista las herramientas digitales que usas en tu trabajo docente]
+- Notion
+- Github
+- Visual Studio Code
 
 ## Algo más sobre ti
 
