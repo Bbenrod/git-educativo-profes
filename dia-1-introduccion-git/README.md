@@ -1,7 +1,7 @@
 ### Práctica Día 1: Introducción a Git
 
 1. Usa `git log dia-1-introduccion-git/bio-docente.md` para ver el historial del archivo.
-2. Ejecuta `git diff HEAD~2 dia-1-introduccion-git/bio-docente.md` para comparar los primeros cambios.
+2. Ejecuta `git diff 86d509c7c0b3b8979b93e08b17a1e0132b3a77c9 dia-1-introduccion-git/bio-docente.md` para comparar los primeros cambios.
 3. Edita el archivo `bio-docente.md` reemplazando el contenido con tu información personal, usando Markdown para darle formato.
 4. Añade los cambios con `git add dia-1-introduccion-git/bio-docente.md`.
 5. Crea un commit con `git commit -m "Actualiza biografía"` o el mensaje que gustes.
